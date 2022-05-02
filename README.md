@@ -1,1 +1,1 @@
-# sesac-ML
+# sesac-ML 수업 실습
